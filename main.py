@@ -1,4 +1,4 @@
-# PONG game, by rogertxe, February 2024
+# Breakout game, by rogertxe, February 2024
 # Create the screen
 
 from turtle import Screen, Turtle
